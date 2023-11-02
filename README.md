@@ -3,6 +3,8 @@
 
 # EpiGNN
 
+This is a cloned repository of the EpiGNN project. Here we apply the model to COVID-19 incidence data in Dutch municipalities. We do so for a class project of Urban Computing at Leiden University, the Netherlands.
+
 [ECML-PKDD2022] The source codes and datasets for `EpiGNN: Exploring Spatial Transmission with Graph Neural Network for Regional Epidemic Forecasting`. Specifically, the codes are in the `\src`, while data is in the `\data`.
 
 [![visitors][visitors-img]][repo-url]
